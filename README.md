@@ -51,4 +51,4 @@
   Chủ đề Semminar
 </h2>
 
-- **Tên chủ đề:** Phân tích độ phức tạp thuật toán đệ quy
+- ***Tên chủ đề:*** Phân tích độ phức tạp thuật toán đệ quy
