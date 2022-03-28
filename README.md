@@ -32,22 +32,19 @@
        <th>Email</th>
       </tr>
       <tr>
-       <td>Nguyễn Trần Thái Duy</td>
-       <td>18520668</td>
-       <td>https://github.com/thaiduy1704</td>
-       <td>18520668@gm.uit.edu.vn</td>  
+       <td>Lê Hoàng Long</td>
+       <td>20521563</td>
+       <td>20521563@gm.uit.edu.vn</td>  
       </tr>
       <tr>
-       <td>Mai Viết Dũng </td>
-       <td>18520634</td>
-       <td>https://github.com/kobato-chan1912</td>
-       <td>18520634@gm.uit.edu.vn</td>  
+       <td>Trần Đức Long</td>
+       <td>20521574</td>
+       <td>20521574@gm.uit.edu.vn</td>  
       </tr>
       <tr>
-       <td>Vũ Văn Minh</td>
-       <td>20521621</td>
-       <td>https://github.com/mtateeeee</td>
-       <td>20521621@gm.uit.edu.vn</td>  
+       <td>Nguyễn Tú Luân</td>
+       <td>20521583</td>
+       <td>20521583@gm.uit.edu.vn</td>  
       </tr>
 </table>
 
@@ -55,6 +52,4 @@
   Chủ đề Semminar
 </h2>
 
-- **Số thứ tự chủ đề:** 01
-- **Tên chủ đề:** Phân tích độ phức tạp thuật toán
-- **Nội dung chi tiết:** Khái niệm, sự cần thiết, phương pháp, ký pháp biểu diễn, phân lớp thuật toán theo độ phức tạp
+- **Tên chủ đề:** Phân tích độ phức tạp thuật toán đệ quy
