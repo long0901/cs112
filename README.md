@@ -4,16 +4,16 @@
    </a>
 </p>
 <h1 align="center">
-    CS112.M21.KHCL - Phân tích và thiết kế thuật toán
+    Cấu trúc dữ liệu và giải thuật nâng cao - CS523.M21.KHCL
 </h1>
 
 <h2>
    Giới thiệu môn học   
 </h2>
 
-- **Tên môn học:** Phân tích và thiết kế thuật toán
-- **Mã môn học:** CS112
-- **Mã lớp:** CS112.M21.KHCL
+- **Tên môn học:** Cấu trúc dữ liệu và giải thuật nâng cao 
+- **Mã môn học:** CS523
+- **Mã lớp:** CS523.M21.KHCL
 - **Năm học:** HK2 (2021-2022)
 - **Giảng viên:** Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
 
@@ -21,7 +21,7 @@
    Giới thiệu nhóm
 </h2>
 
-- **Số thứ tự nhóm:** 7
+- **Số thứ tự nhóm:** 9
 - **Thông tin thành viên**
 
 <table align="center">
@@ -51,4 +51,4 @@
   Chủ đề Semminar
 </h2>
 
-- ***Tên chủ đề:*** Phân tích độ phức tạp thuật toán đệ quy
+ **Tên chủ đề:** B-Tree
