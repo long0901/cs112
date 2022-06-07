@@ -12,8 +12,8 @@
 </h2>
 
 - **Tên môn học:** Phân tích và thiết kế thuật toán
-- **Mã môn học:** CS523
-- **Mã lớp:** CS523.M21.KHCL
+- **Mã môn học:** CS112
+- **Mã lớp:** CS112.M21.KHCL
 - **Năm học:** HK2 (2021-2022)
 - **Giảng viên:** Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
 
