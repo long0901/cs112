@@ -4,14 +4,14 @@
    </a>
 </p>
 <h1 align="center">
-    Cấu trúc dữ liệu và giải thuật nâng cao - CS523.M21.KHCL
+    Phân tích và thiết kế thuật toán CS112.M21.KHCL
 </h1>
 
 <h2>
    Giới thiệu môn học   
 </h2>
 
-- **Tên môn học:** Cấu trúc dữ liệu và giải thuật nâng cao 
+- **Tên môn học:** Phân tích và thiết kế thuật toán
 - **Mã môn học:** CS523
 - **Mã lớp:** CS523.M21.KHCL
 - **Năm học:** HK2 (2021-2022)
@@ -51,4 +51,4 @@
   Chủ đề Semminar
 </h2>
 
- **Tên chủ đề:** B-Tree
+ **Tên chủ đề:** Phân tích độ phức tạp thuật toán đệ quy
